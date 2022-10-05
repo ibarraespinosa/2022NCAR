@@ -340,7 +340,7 @@ POLYGON ((274.6966 -59.03607, 274.8997 -59.00577, 274.9453 -58.88916, 274.7924 -
 
 ```
 
-Vertex:
+Corner Coordinates:
 
 ```{r, eval=F}
 nc <- nc_open("/glade/p/cgd/amp/patc/GRID_REPO/ne0np4.SAMwrf01.ne30x2/grids/SAMwrf01_ne30x2_np4_SCRIP.nc")
